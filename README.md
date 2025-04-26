@@ -1,1 +1,1 @@
-My early random projects
+My early random projects, which contain CNN models and two University projects
